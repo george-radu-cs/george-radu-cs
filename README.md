@@ -19,7 +19,6 @@
 <img align="left" alt="george-radu-cs | Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 <br />
----
 
 ### Languages and Tools
 
