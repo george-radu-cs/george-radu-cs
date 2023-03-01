@@ -38,8 +38,8 @@
 <a href="https://github.com/george-radu-cs/IntroductionToRobotics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=IntroductionToRobotics&theme=gruvbox&hide_border=true" />
 </a>
-<a href="https://github.com/george-radu-cs/TNCasino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=TNCasino&theme=gruvbox&hide_border=true" />
+<a href="https://github.com/george-radu-cs/advanced-secretary-rpa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=advanced-secretary-rpa&theme=gruvbox&hide_border=true" />
 </a>
 <a href="https://github.com/george-radu-cs/ubi-dapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=ubi-dapp&theme=gruvbox&hide_border=true" />
