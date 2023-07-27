@@ -25,28 +25,28 @@
 ## 📊 Some stats
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:start;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-radu-cs&theme=gruvbox&hide_border=true&layout=compact&langs_count=10&hide=ejs,css,html" alt="most_used_languages" /> &emsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=george-radu-cs&&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&card_width=350" alt="status_card" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-radu-cs&hide_border=true&layout=compact&langs_count=10&hide=ejs,css,html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="most_used_languages" /> &emsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=george-radu-cs&&count_private=true&show_icons=true&hide_border=true&card_width=350&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="status_card" />
 </div>  
 </br>
 
 ## Top Repositories
 
 <a href="https://github.com/george-radu-cs/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=dotfiles&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=dotfiles&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 <a href="https://github.com/george-radu-cs/IntroductionToRobotics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=IntroductionToRobotics&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=IntroductionToRobotics&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 <a href="https://github.com/george-radu-cs/advanced-secretary-rpa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=advanced-secretary-rpa&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=advanced-secretary-rpa&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 <a href="https://github.com/george-radu-cs/ubi-dapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=ubi-dapp&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=ubi-dapp&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 <a href="https://github.com/george-radu-cs/proiect_lfa_cs112">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=proiect_lfa_cs112&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=proiect_lfa_cs112&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 <a href="https://github.com/george-radu-cs/y2s2-tema2-alg-genetici">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=y2s2-tema2-alg-genetici&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george-radu-cs&repo=y2s2-tema2-alg-genetici&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
