@@ -26,7 +26,6 @@
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:start;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-radu-cs&hide_border=true&layout=compact&langs_count=10&hide=ejs,css,html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="most_used_languages" /> &emsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=george-radu-cs&&count_private=true&show_icons=true&hide_border=true&card_width=350&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="status_card" />
 </div>  
 </br>
 
