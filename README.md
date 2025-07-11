@@ -2,7 +2,7 @@
 
 🧑‍🎓 I'm a student at University of Bucharest
 
-💼 I’m currently working at MBN-Tech as a Software Developer
+💼 I’m currently working as a Software Developer
 
 👀 I’m interested in cryptography, security and automation
 
